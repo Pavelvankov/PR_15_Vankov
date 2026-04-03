@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041F\u0440\u043E\u0442\u043E\u043A\u043E\u043B \u0416\u043E\u043F\u0430\u0430\\PR_15_Vankov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D17918-EB52-4D1D-AC6B-EE9355F17B3E}|PR_15_Vankov\\PR_15_Vankov.vcxproj|C:\\Users\\user\\Desktop\\\u041F\u0440\u043E\u0442\u043E\u043A\u043E\u043B \u0416\u043E\u043F\u0430\u0430\\PR_15_Vankov\\PR_15_Vankov\\PR_15_Vankov.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30D17918-EB52-4D1D-AC6B-EE9355F17B3E}|PR_15_Vankov\\PR_15_Vankov.vcxproj|solutionrelative:PR_15_Vankov\\PR_15_Vankov.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1EA957-63BB-4F44-8A24-9DDC7373E230}|PR_15_Vankov_client\\PR_15_Vankov_client.vcxproj|C:\\Users\\user\\Desktop\\\u041F\u0440\u043E\u0442\u043E\u043A\u043E\u043B \u0416\u043E\u043F\u0430\u0430\\PR_15_Vankov\\PR_15_Vankov_client\\PR_15_Vankov_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD1EA957-63BB-4F44-8A24-9DDC7373E230}|PR_15_Vankov_client\\PR_15_Vankov_client.vcxproj|solutionrelative:PR_15_Vankov_client\\PR_15_Vankov_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PR_15_Vankov_client.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0440\u043E\u0442\u043E\u043A\u043E\u043B \u0416\u043E\u043F\u0430\u0430\\PR_15_Vankov\\PR_15_Vankov_client\\PR_15_Vankov_client.cpp",
+              "RelativeDocumentMoniker": "PR_15_Vankov_client\\PR_15_Vankov_client.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0440\u043E\u0442\u043E\u043A\u043E\u043B \u0416\u043E\u043F\u0430\u0430\\PR_15_Vankov\\PR_15_Vankov_client\\PR_15_Vankov_client.cpp",
+              "RelativeToolTip": "PR_15_Vankov_client\\PR_15_Vankov_client.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAEYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-03T16:19:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR_15_Vankov.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0440\u043E\u0442\u043E\u043A\u043E\u043B \u0416\u043E\u043F\u0430\u0430\\PR_15_Vankov\\PR_15_Vankov\\PR_15_Vankov.cpp",
+              "RelativeDocumentMoniker": "PR_15_Vankov\\PR_15_Vankov.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0440\u043E\u0442\u043E\u043A\u043E\u043B \u0416\u043E\u043F\u0430\u0430\\PR_15_Vankov\\PR_15_Vankov\\PR_15_Vankov.cpp",
+              "RelativeToolTip": "PR_15_Vankov\\PR_15_Vankov.cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-03T16:18:59.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
